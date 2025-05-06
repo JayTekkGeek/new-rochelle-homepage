@@ -1,0 +1,16 @@
+{
+  "name": "new-rochelle-homepage",
+  "version": "1.0.0",
+  "description": "A simple homepage for New Rochelle, New York showcasing its culture and community.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build step required.'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "new-rochelle-homepage": "file:"
+  }
+}
